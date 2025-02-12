@@ -9,7 +9,7 @@
 - 💬 Ask me about **JavaScript, Cloud, Cybersecurity**  
 - 📫 How to reach me: **praneethsonu10@gmail.com**  
 
-- ⚡ Fun fact: **I built a voice-controlled assistant that tells me the news and plays music! 🎵**  
+- ⚡ Fun fact: **he First Computer Bug Was a Real Bug!**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
