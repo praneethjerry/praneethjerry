@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm JERRY PRANEETH</h1>
 <h3 align="center">A passionate Python developer from India</h3>
-<img algin="left" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
+<img align="left" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
 - 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **Javascript,Cloud,Cyber**
