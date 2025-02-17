@@ -9,7 +9,7 @@
 - 💬 Ask me about **JavaScript, Cloud, Cybersecurity**  
 - 📫 How to reach me: **praneethsonu10@gmail.com**  
 
-- ⚡ Fun fact: **he First Computer Bug Was a Real Bug!**  
+- ⚡ Fun fact: **The First Computer Bug Was a Real Bug!**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
